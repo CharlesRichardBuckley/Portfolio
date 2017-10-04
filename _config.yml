@@ -2,7 +2,7 @@
 title: Charles Buckley
 email: your-email@domain.com
 description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: "https://charlesrichardbuckley.github.io" # the base hostname & protocol for your site
 
 # Homepage tiles
